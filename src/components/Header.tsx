@@ -19,7 +19,7 @@ export default function Header() {
                         <Link href="/Skills">Skills</Link>
                     </li>
                     <li className="bg-[#002147] w-20 md:w-28 text-center text-white rounded hover:scale-110 font-mono">
-                        <Link href="/Contactus">Contact us</Link>
+                        <Link href="/Contact-us"> Contact us</Link>
                     </li>
                 </ul>
             </div>
