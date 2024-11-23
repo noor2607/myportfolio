@@ -1,4 +1,4 @@
-"use client";
+
 import About from './About/page'; 
 import ContactUs from './Contact-us/page'; 
 import Skills from './Skills/page'; 
