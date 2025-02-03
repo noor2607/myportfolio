@@ -1,7 +1,7 @@
 
-import About from './About/page'; 
-import ContactUs from './Contact-us/page'; 
-import Skills from './Skills/page'; 
+import About from './About/page.tsx'; 
+import ContactUs from './Contact-us/page.tsx'; 
+import Skills from './Skills/page.tsx'; 
 export default function Home() {
   return (
       <div className="">
